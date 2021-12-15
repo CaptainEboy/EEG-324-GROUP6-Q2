@@ -54,12 +54,9 @@ namespace EEG324_GROUP6_Q2
             Console.WriteLine("   ");
             
         }
-       //End of the Method
-        
-        
+       //End of the Method        
     }
-   //End of class Vals
-    
+   //End of class Vals  
     
     //Beginning of the app
     class Program
